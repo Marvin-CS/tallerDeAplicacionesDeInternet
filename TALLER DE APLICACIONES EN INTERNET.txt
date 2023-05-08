@@ -6,3 +6,11 @@
 	Programación extrema (XP) ...
 	Kanban. ...
 	Scrum
+__________________________________________
+2: metodologias agiles
+
+Desarrollo de software adaptativo (ASD)
+Método de desarrollo dinámico de software (DSDM)
+Desarrollo impulsado por las características (FDD)
+
+Desarrollo orientado al comportamiento (BDD
